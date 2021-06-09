@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580063948207",
+    "project_id": "email-login-8b9fc",
+    "storage_bucket": "email-login-8b9fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580063948207:android:1b87827a56a65e3a3b135a",
+        "android_client_info": {
+          "package_name": "appmanaic.flutter_email_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580063948207-5h2ghu6ivco6bk9rsdl8m3cfffpboqs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccdx5CeDOJpFCb_DKY0MZtZ9GtQGReBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580063948207-5h2ghu6ivco6bk9rsdl8m3cfffpboqs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
